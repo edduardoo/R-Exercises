@@ -13,7 +13,7 @@ The proposed exercises are below, and the answers are in the Answers folder.
 
 #### 2 - Create a function which sums two numbers: x and y
 
-#### 3 - Create a function to simulate a dice roll.
+#### 3 - Create a function to simulate a die roll.
 
 #### 4 - Create a function to simulate two dice roll.
 
