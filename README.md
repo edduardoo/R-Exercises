@@ -19,5 +19,10 @@ The proposed exercises are below, and the answers are in the Answers folder.
 
 #### 5 - Create a function to simulate ***n*** dice roll.
 
+#### 6 - Create an object with letters A, B and C, repeating each one 15, 12 and 8 times respectively
+- a) Display on the screen, logical vector, showing where are letters B in this object
+- b) Check Help for function sum() and find out how to count the number of letters B in this vector, using sum()
+
+
 
 
